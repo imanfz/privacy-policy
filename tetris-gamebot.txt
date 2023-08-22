@@ -1,0 +1,11 @@
+This application does not collect or store personal data.
+But third party like Firebase and AdMob collect some personal data.
+
+We use the information we collect in various ways, including to:
+- Provide, operate, and maintain our apps
+- Improve, personalize, and expand our apps
+- Understand and analyze how you use our apps
+- Develop new products, services, features, and functionality
+
+If you installed this application from Google Play, then Google Play does collect some personal data.
+Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
